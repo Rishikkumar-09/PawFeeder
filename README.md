@@ -71,6 +71,9 @@ Once powered, the system connects to **WiFi** and is ready for **Telegram comman
 
 ---
 
+![Screenshot 2025-02-09 073458](https://github.com/user-attachments/assets/c5623d1f-5627-469a-93ff-b914dceffd34)
+
+
 ## 🛡️ Security Best Practices  
 🔒 **Never hardcode WiFi credentials** in the code. Use environment variables.  
 🤖 **Secure the Telegram Bot Token** using a `.env` file.  
