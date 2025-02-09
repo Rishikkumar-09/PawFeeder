@@ -23,9 +23,6 @@ The **PawFeeder** is an innovative IoT-based pet feeding system that allows user
 4. The OLED display shows a confirmation message.
 5. The servo motor resets to its initial position after dispensing.
 
-## 🔧 Circuit Diagram
-*(Attach the circuit diagram here)*
-
 ## 📑 Implementation Steps
 1. **Set Up the Telegram Bot**: Create a bot using BotFather and obtain the bot token.
 2. **Configure the ESP8266**: Upload the Arduino code with WiFi credentials and bot token.
