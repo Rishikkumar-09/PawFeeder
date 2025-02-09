@@ -80,12 +80,6 @@ Once powered, the system connects to **WiFi** and is ready for **Telegram comman
 ❌ **WiFi not connecting?** Double-check credentials and router settings.  
 ❌ **Servo motor not rotating?** Ensure correct wiring and sufficient power supply.  
 ❌ **Telegram bot not responding?** Verify the bot token and check if the ESP8266 is online.  
-
----
-
-## 📸 Visual Demo  
-🚧 *[Placeholder for an image/GIF of the system in action]* 🚧  
-
 ---
 
 ## ⭐ Show Your Support  
